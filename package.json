@@ -1,5 +1,5 @@
 {
-  "name": "egg-rbac",
+  "name": "souvenbir-egg-rbac",
   "version": "0.4.0",
   "description": "Role Based Access Control for eggjs",
   "eggPlugin": {
@@ -58,12 +58,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lidianhao123/egg-rbac.git"
+    "url": "git+https://https://github.com/xiaoyunchen/egg-rbac.git"
   },
-  "bugs": {
-    "url": "https://github.com/lidianhao123/egg-rbac/issues"
-  },
-  "homepage": "https://github.com/lidianhao123/egg-rbac#readme",
-  "author": "dainli@outlook.com",
+  "homepage": "https://github.com/xiaoyunchen/egg-rbac#readme",
+  "author": "1004183222@qq.com",
   "license": "MIT"
 }
