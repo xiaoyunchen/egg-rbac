@@ -6,8 +6,10 @@
  * @property {String} SOME_KEY - some description
  */
 exports.rbac = {
-  // mongoose db
-  db: '',
+  // mongoose db 名称，对应mongoose client DB配置
+  dbName: 'rbac',
+  // mongoose 注入名称
+  mongooseName: 'mongoose',
   initOnStart: true, // default false
   /**
    * @param {object} ctx - egg context object
