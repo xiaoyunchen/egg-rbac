@@ -1,5 +1,5 @@
 {
-  "name": "souvenbir-egg-rbac",
+  "name": "souvenir-egg-rbac",
   "version": "0.4.0",
   "description": "Role Based Access Control for eggjs",
   "eggPlugin": {
