@@ -6,6 +6,8 @@
  * @property {String} SOME_KEY - some description
  */
 exports.rbac = {
+  // mongoose 连接配置
+  mongoose: {},
   initOnStart: true, // default false
   /**
    * @param {object} ctx - egg context object
