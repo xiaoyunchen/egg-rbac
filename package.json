@@ -1,5 +1,5 @@
 {
-  "name": "souvenir-egg-rbac",
+  "name": "souvenir-egg-rbac-org",
   "version": "1.0.0",
   "description": "Role Based Access Control for eggjs",
   "eggPlugin": {
